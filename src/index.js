@@ -107,3 +107,10 @@
 // const [name, age] = myProfile;
 // const message4 = `名前は${name}です。年齢は${age}歳です。`;
 // console.log(message4);
+
+/**
+ * デフォルト値、引数など
+ */
+
+// const sayHello = (name = "矢澤佑真") => console.log(`こんにちは!${name}さん!`);
+// sayHello("ヤザワユウマ");
